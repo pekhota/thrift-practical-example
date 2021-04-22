@@ -1,0 +1,12 @@
+{
+    "name": "alex/thrift-demo-2",
+    "require": {
+        "apache/thrift": "^0.14.1"
+    },
+    "authors": [
+        {
+            "name": "Alexander Pekhota",
+            "email": "alex@pdffiller.com"
+        }
+    ]
+}
